@@ -13,6 +13,46 @@ With a background in **Computer Engineering** and a Master's in **Engineering Te
 
 ---
 
+## 🛠️ Diverse Project Portfolio
+
+### 🔗 End-to-End Systems
+Led initiatives integrating inventory automation and ERP solutions at Gimens Pharmacy, increasing stock accuracy by 30% and enhancing workflow efficiency.
+
+### 📊 Business Logic Automation
+Developed performance dashboards and reporting tools to monitor operational KPIs, enabling a 33% increase in sales operations efficiency.
+
+### ☁️ Cloud Infrastructure
+Worked on system upgrades and ERP deployments, researching and implementing cloud-based solutions for improved system performance.
+
+### 🤖 AI/ML Projects
+Consulted for Vodafone on identifying technology solutions, including predictive modeling opportunities for operational efficiency and business growth.
+
+### 🌐 Full-Stack Web Applications
+Built web-based dashboards and internal tools to support cross-functional team communication and improve decision-making processes.
+
+---
+
+## 🎓 MSc-Relevant Projects & Skills
+
+### 📈 Decision-Making Models
+Created optimization strategies for revenue and cost-saving models in Airbnb management (35% revenue increase) and Gimens Pharmacy (25% efficiency gain).
+
+### 🔄 Simulation Tools
+Participated in discrete-event simulation and process flow modeling during MSc coursework to support supply chain improvements.
+
+### 🛠 Business Analytics Pipelines
+Designed and implemented data-driven processes combining ETL pipelines with visual reporting, supporting business process improvement (19% cost savings).
+
+---
+
+## 📚 Education
+- **MEng Engineering Technology**, University of Leeds (2023–2024)  
+- **BSc Computer Engineering**, KNUST, Ghana (2017–2021)  
+- **Diploma**, Spartan College of Aeronautics and Technology (2011–2012)  
+- **High School Diploma**, Kettering Fairmont High School, Ohio (2006–2009)
+
+---
+
 ## 🔬 Recent Contribution: *Hypertensive Urgency Book Chapter*
 
 📖 I contributed to a published book on **Hypertensive Urgency**, addressing:
@@ -71,8 +111,9 @@ This work reflects my engagement in **healthcare process improvement and decisio
 
 ---
 
-## 📫 Contact Me
+## 🔗 Let's Connect
 
-📍 London, United Kingdom  
-📧 [cent142003@gmail.com](mailto:cent142003@gmail.com)  
+📍 London, UK  
+📧 cent142003@gmail.com  
+📞 +44 7961 446703  
 🔗 [LinkedIn](https://uk.linkedin.com/in/daniel22jefferson)
