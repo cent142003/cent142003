@@ -22,6 +22,8 @@ With a background in **Computer Engineering** and a Master's in **Engineering Te
 
 This work reflects my engagement in **healthcare process improvement and decision-making support**.
 
+🔗 [Read the Publication on ResearchGate](https://www.researchgate.net/publication/349992441_Hypertensive_Urgency)
+
 ---
 
 ## 💼 Core Competencies
@@ -47,7 +49,6 @@ This work reflects my engagement in **healthcare process improvement and decisio
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-007ACC?style=for-the-badge&logo=tableau&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-009688?style=for-the-badge&logo=trello&logoColor=white)
 ![CRM / CMS](https://img.shields.io/badge/CRM%20%2F%20CMS-00A4CC?style=for-the-badge&logo=hubspot&logoColor=white)
-
 
 ---
 
@@ -75,5 +76,3 @@ This work reflects my engagement in **healthcare process improvement and decisio
 📍 London, United Kingdom  
 📧 [cent142003@gmail.com](mailto:cent142003@gmail.com)  
 🔗 [LinkedIn](https://uk.linkedin.com/in/daniel22jefferson)
-
----
